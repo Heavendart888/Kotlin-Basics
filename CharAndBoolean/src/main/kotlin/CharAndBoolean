@@ -1,0 +1,11 @@
+fun main() {
+    val myCharValue:Char='D' //char datatype can only contain single letter or number and must use single quotation.
+    println("$myCharValue")
+    println(myCharValue)
+
+    //boolean
+    val myBooleanValue:Boolean=true
+    println(myBooleanValue)
+
+    println("myCharValue=$myCharValue and myBooleanValue=$myBooleanValue")
+}
